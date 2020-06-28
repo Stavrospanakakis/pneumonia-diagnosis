@@ -1,7 +1,7 @@
 # pneumonia-diagnosis
 
 My third attempt working with convolutional neural networks. That time, I created a network to predict if a patient has preumonia from a chest xray. It is more
-compicated than my previous networks because I added data augmentation to improve the accuracy. The accuracy is 88%. 
+complicated than my previous networks because I added data augmentation to improve the accuracy. The accuracy is 88%. 
 
 ## Run 
 
