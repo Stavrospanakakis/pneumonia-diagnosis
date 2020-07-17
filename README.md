@@ -10,3 +10,5 @@ Click the button below and follow the instructions to run it.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stavrospanakakis/pneumonia-diagnosis/blob/master/pneumonia_diagnosis.ipynb)
 
 Feel free to give me feedback or contribute!
+
+[License](https://creativecommons.org/licenses/by/4.0/)
