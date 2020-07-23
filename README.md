@@ -11,4 +11,4 @@ Click the button below and follow the instructions to run it.
 
 Feel free to give me feedback or contribute!
 
-[License](https://creativecommons.org/licenses/by/4.0/)
+[Dataset's License](https://creativecommons.org/licenses/by/4.0/)
