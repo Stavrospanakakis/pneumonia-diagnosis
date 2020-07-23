@@ -11,4 +11,9 @@ Click the button below and follow the instructions to run it.
 
 Feel free to give me feedback or contribute!
 
+[Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 [Dataset's License](https://creativecommons.org/licenses/by/4.0/)
+
+[![LICENSE](https://img.shields.io/apm/l/vim-mode)](https://github.com/Stavrospanakakis/pneumonia-diagnosis/blob/master/LICENSE)
+
